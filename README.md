@@ -16,6 +16,6 @@ Inputs:
 - Right button (B) right button for true
 
 Outputs:
-- Questions
+- Questions (Displayed in serial monitor)
 - LEDs (green when correct, red for incorrect)
 - Sound (melody plays at end of game to signify end)
