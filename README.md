@@ -12,10 +12,10 @@ Game description and rules:
 - Delay of 5 seconds before game resets, encoraging players to increase their score.
 
 Inputs:
-- Left button 
-- Right button
+- Left button (A) left button for false
+- Right button (B) right button for true
 
 Outputs:
-Questions
-LEDs
-Sound
+- Questions
+- LEDs (green when correct, red for incorrect)
+- Sound (melody plays at end of game to signify end)
